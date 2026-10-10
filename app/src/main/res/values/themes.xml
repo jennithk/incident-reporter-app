@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Incident Reporter</string>
+    <style name="Theme.IncidentReporter" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
